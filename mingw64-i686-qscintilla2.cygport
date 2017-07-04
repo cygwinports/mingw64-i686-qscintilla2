@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross qt4-qmake qt5-qmake
 
 NAME="mingw64-i686-qscintilla2"
-VERSION=2.10
+VERSION=2.10.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Qt Scintilla editor class for Win32 toolchain"
